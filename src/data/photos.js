@@ -1,13 +1,13 @@
 import yasminh1 from "../assets/photos/yasminh10.jpeg";
-import yasmin2 from "..//assets/photos/yasminv6.jpeg";
-import yasmin3 from "..//assets/photos/yasminv3.jpeg";
-import yasmin4 from "..//assets/photos/yasminv4.jpeg";
-import yasmin5 from "..//assets/photos/yasminh7.jpeg";
-import yasmin6 from "..//assets/photos/yasminh6.jpeg";
-import yasmin7 from "..//assets/photos/yasminv7.jpeg";
-import yasmin8 from "..//assets/photos/yasminh8.jpeg";
-import yasmin9 from "..//assets/photos/yasminh9.jpeg";
-import yasmin10 from "..//assets/photos/yasminv2.jpeg";
+import yasmin2 from "../assets/photos/yasminv6.jpeg";
+import yasmin3 from "../assets/photos/yasminv3.jpeg";
+import yasmin4 from "../assets/photos/yasminv4.jpeg";
+import yasmin5 from "../assets/photos/yasminh7.jpeg";
+import yasmin6 from "../assets/photos/yasminh6.jpeg";
+import yasmin7 from "../assets/photos/yasminv7.jpeg";
+import yasmin8 from "../assets/photos/yasminh8.jpeg";
+import yasmin9 from "../assets/photos/yasminh9.jpeg";
+import yasmin10 from "../assets/photos/yasminv2.jpeg";
 
 
 // 2 3 4 7 10 -> vertical
